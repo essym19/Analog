@@ -30,7 +30,7 @@ if($useremail!=""){
     }
     else{
        echo '<script type="text/javascript">alert("User not found"); window.location = "homePage.php";</script>';
-       //fix and use javascript modal window instead ???might affect -ve the ux??
+       
                   }
                   
     
